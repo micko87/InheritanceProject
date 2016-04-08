@@ -1,8 +1,8 @@
-## BasicProject
+## Inheritance Project
 
-### March 25, 2016
+### April 7, 2016
 
-My third version controlled project
+Inheritance Project which showcases both a class for People teachers. 
 
 * git 
 * Java 7
